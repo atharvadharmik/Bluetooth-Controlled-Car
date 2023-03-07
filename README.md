@@ -1,1 +1,2 @@
 # Bluetooth-Controlled-Car
+This repository contains the code for a Bluetooth controlled car built using Arduino. With this project, you can control the car's movement (forward, backward, left, right) using a mobile device over Bluetooth. The project utilizes an Arduino board, a Bluetooth module, and a motor driver to control the movement of the car. The code is well-documented and easy to understand, making it a great learning resource for anyone interested in Arduino and robotics. Feel free to explore and modify the code to suit your needs!
